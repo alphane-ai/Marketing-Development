@@ -1,0 +1,3 @@
+company,region,website,contact_name,contact_role,contact_url,customer_type,trigger_signal,pain_hypothesis,offer,kimi_or_codex,estimated_monthly_usage,pain_score,payment_score,compliance_score,seven_day_validation_score,case_value_score,total_score,status,next_action,notes
+Example AI SaaS,US,https://example.com,Jane Doe,CTO,https://linkedin.com/in/example,AI SaaS,hiring LLM engineer,token cost and model fallback are becoming painful,Free Coding Workflow Audit,Codex,unknown,5,4,5,4,4,22,new,send personalized email,Replace this row
+Example CN SaaS,CN,https://example.cn,王某,技术负责人,https://example.cn/about,SaaS,new AI feature launched,needs Kimi gateway and cost control,Free LLM API Cost Audit,Kimi,unknown,4,4,5,5,3,21,new,send WeChat intro,Replace this row
